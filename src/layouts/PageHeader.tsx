@@ -30,7 +30,7 @@ export function PageHeader() {
           <input
             type="search"
             placeholder="Search"
-            className="rounded-l-full border border-secondary-border shadow-inner shadow-secondary py-1 px-4 text-lg w-full focus:border-blue-500 outline-none"
+            className="rounded-l-full border border-secondary-border shadow-inner shadow-secondary py-1 px-4 text-lg w-full focus:border-red-200 outline-none"
           />
           <Button className="py-2 px-4 rounded-r-full border-secondary-border border border-l-0 flex-shrink-0">
             <Search />
